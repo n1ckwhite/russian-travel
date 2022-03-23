@@ -1,5 +1,12 @@
 .intro {
   max-width: 984px;
+  margin: 0 auto;
   box-sizing: border-box;
   padding-top: 92px;
+}
+
+@media screen and (max-width: 768px) {
+  .intro {
+    padding-top: 82px;
+  }
 }
