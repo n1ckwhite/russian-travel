@@ -5,5 +5,10 @@
   line-height: 22px;
   text-decoration-line: underline;
   color: inherit;
-  color: inherit;
+  transition: .2s;
+}
+
+
+.places__link:hover {
+  color: rgba(255,255,255, .8);
 }

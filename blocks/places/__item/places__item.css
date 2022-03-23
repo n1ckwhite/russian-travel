@@ -1,6 +1,6 @@
 .places__item {
   display: grid;
-  grid-template-columns: repeat(2,1fr);
+  grid-template-columns: repeat(2, minmax(min-content,460px));
   gap: 48px 40px;
   margin-top: 80px;
 }
