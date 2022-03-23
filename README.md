@@ -13,4 +13,6 @@
 - медиа запросы. 
 Всё это позволяет на практике закрепить теорию из тренажёра.
 
-## Ссылка на проект: [Путешествия по России](https://github.com/n1ckwhite/russian-travel/tree/main)
+## Ссылка на GitHubPages: 
+---
+[Готовый проект](https://github.com/n1ckwhite/russian-travel/tree/main)
