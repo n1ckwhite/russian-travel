@@ -12,5 +12,5 @@
 - переходы,
 - медиа запросы. 
 ###
-- [Путешествия по России](https://github.com/n1ckwhite/russian-travel/tree/main)
+ [Путешествия по России](https://github.com/n1ckwhite/russian-travel/tree/main)
 ### Всё это позволяет на практике закрепить теорию из тренажёра.
