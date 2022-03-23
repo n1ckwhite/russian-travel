@@ -1,0 +1,10 @@
+.places__item {
+  display: grid;
+  grid-template-columns: repeat(2,1fr);
+  gap: 48px 40px;
+  margin-top: 80px;
+}
+
+.places__item:first-child {
+  margin-top: 0;
+}
