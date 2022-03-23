@@ -14,5 +14,4 @@
 Всё это позволяет на практике закрепить теорию из тренажёра.
 
 ## Ссылка на GitHubPages: 
----
 [Готовый проект](https://github.com/n1ckwhite/russian-travel/tree/main)
