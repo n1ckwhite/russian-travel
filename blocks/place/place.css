@@ -5,9 +5,24 @@
   margin: 0 auto;
 }
 
+
+@media screen and (max-width: 1024px) {
+  .place {
+    margin: 0;
+    padding: 92px 48px 92px 48px;
+  }
+}
+
 @media screen and (max-width: 768px) {
   .place {
-    padding-top: 88px;
-    padding-bottom: 88px;
+    margin: 0;
+    padding: 88px 24px 88px 24px;
+  }
+}
+
+@media screen and (max-width: 390px) {
+  .place {
+    margin: 0;
+    padding: 64px 16px 64px 16px;
   }
 }

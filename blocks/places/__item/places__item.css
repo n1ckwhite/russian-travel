@@ -1,6 +1,7 @@
 .places__item {
   display: grid;
-  grid-template-columns: repeat(2, minmax(min-content,460px));
+  justify-content: center;
+  grid-template-columns: repeat(2, minmax(220px,460px));
   gap: 48px 40px;
   margin-top: 80px;
 }
@@ -10,16 +11,34 @@
 }
 
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width:1024px) {
   .places__item {
     gap: 48px 32px;
-    grid-template-columns: repeat(2, minmax(min-content,440px));
   }
 }
 
 @media screen and (max-width: 768px) {
   .places__item {
     gap: 48px 28px;
-    grid-template-columns: repeat(2, minmax(min-content,340px));
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .places__item {
+    margin-top: 73px;
+    gap: 48px 28px;
+  }
+}
+
+@media screen and (max-width: 525px) {
+  .places__item {
+    grid-template-columns: 1fr;
+    gap: 32px;
+  }
+}
+
+@media screen and (max-width: 390px) {
+  .places__item {
+    margin-top: 64px;
   }
 }

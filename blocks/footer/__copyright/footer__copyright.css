@@ -6,3 +6,18 @@
   line-height: 16px;
   text-align: right;
 }
+
+@media screen and (max-width: 768px) {
+  .footer__copyright {
+    font-size: 1.82vw;
+    line-height: 2.08vw;
+  }
+}
+
+@media screen and (max-width:390px) {
+  .footer__copyright {
+    font-size: 14px;
+    line-height: 1;
+    margin-top: 48px;
+  }
+}
