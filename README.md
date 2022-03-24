@@ -12,6 +12,8 @@
 - переходы,
 - медиа запросы. 
 ## Планы по доработке:
+- Добавить адапитвность размеру текста,
+- Добавить иностранный язык.
 
 ## Ссылка на GitHubPages: 
-[Готовый проект](https://github.com/n1ckwhite/russian-travel/tree/main)
+[Готовый проект](https://n1ckwhite.github.io/russian-travel/)
