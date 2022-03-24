@@ -5,7 +5,7 @@
   transition: .2s;
   background: rgba(0,0,0,0.3);
   cursor: pointer;
-  z-index: 1;
+  z-index: 2;
   color: #fff;
   display: flex;
   justify-content: center;
@@ -13,6 +13,7 @@
   flex-direction: column;
   text-decoration: none;
 }
+
 
 .cover__link:hover {
   background: rgba(0,0,0,0.8);
