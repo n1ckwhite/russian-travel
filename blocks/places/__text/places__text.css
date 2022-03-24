@@ -1,8 +1,8 @@
 .places__text {
-font-style: normal;
-font-weight: 400;
-margin: 0;
-margin-top: 26px;
+  font-style: normal;
+  font-weight: 400;
+  margin: 0;
+  margin-top: 26px;
 }
 
 .places__text:first-child {
