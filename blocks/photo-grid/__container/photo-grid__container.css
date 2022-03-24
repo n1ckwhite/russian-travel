@@ -6,11 +6,10 @@
   justify-items: center;
   grid-template-columns: repeat(auto-fit,minmax(284px,1fr));
   grid-template-rows: repeat(auto-fit, minmax(213px,1fr));
-  gap: 16px;
 }
 
-@media screen and (min-width: 1024px) {
-  .photo-grid {
+@media screen and (min-width: 320px) {
+  .photo-grid__container {
    gap: 14px;
   }
 }
