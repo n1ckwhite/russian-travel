@@ -22,12 +22,11 @@
   }
 }
 
-
 @media screen and (min-width: 1024px) {
   .places__item {
-  grid-template-columns: repeat(2, 440px);
-  gap: 48px 32px;
-  margin-top: 80px;
+    grid-template-columns: repeat(2, 440px);
+    gap: 48px 32px;
+    margin-top: 80px;
   }
 }
 
@@ -35,6 +34,5 @@
   .places__item {
     grid-template-columns: repeat(2, 460px);
     gap: 48px 40px;
-
   }
 }
